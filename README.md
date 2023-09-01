@@ -4,7 +4,7 @@
 
 Hello!👋 My name is **Alan Aditya** I am from Semarang State University taking S1 Informatics Engineering. 🏫
 
-I have huge interest in web development 👩‍💻 as well graphic design! Currently studying html and css.
+I have huge interest in web development 👩‍💻 as well graphic design 🎨! Currently studying html and css.
 
 
 **Skills:**  
@@ -22,7 +22,7 @@ Graphic Design | Web Development | Content Creation
 - 💬 Ask me about graphic design
 - 📫 How to reach me: adtyalan (Instagram, Linkedin)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i love visuals.
+- ⚡ Fun fact: i love visuals
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nikxherrera)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikxherrera/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nikxherrera/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](nikxherrera.github.io)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/adtyalan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adtyalan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/adtyalan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](adtyalan.github.io)  
