@@ -1,6 +1,6 @@
 ### Hi there👋, Welcome!
 
-![I am Alan Aditya] (https://github.com/adtyalan/adtyalan/assets/143402057/98987b6e-b9cc-45de-83ee-8c59e5778848)
+![I am Alan Aditya](https://github.com/adtyalan/adtyalan/assets/143402057/98987b6e-b9cc-45de-83ee-8c59e5778848)
 
 Hello!👋 My name is **Alan Aditya** I am from Semarang State University taking S1 Informatics Engineering. 🏫
 
