@@ -17,14 +17,7 @@ Web Development | Multiplatform App Development | UI/UX | Photography | Graphic 
 
 
 **Tools:**   
-<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' alt='html' height='40'>
-<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' alt='css' height='40'>
-<img src='https://brandslogos.com/wp-content/uploads/images/large/javascript-logo.png' alt='js' height='40'>
-<img src='https://cdn.worldvectorlogo.com/logos/typescript.svg' alt='vscode' height='40'>
-<img src='https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png' alt='npm' height='40'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png' alt='webpack' height='40'>
-<img src='https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png' alt='nodejs' height='40'>
-<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLt5RQx6V1W6XXJcczgwNbzbdGyfHNCYtSCQ&s' alt='github' height='40'>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,tailwind,dart,flutter,nodejs,supabase,figma)](https://skillicons.dev)
 
 
 - 🌱 I’m currently learning TS, NextJS, and Expo with React Native
